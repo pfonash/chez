@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>414263590001-ua95va07bnl3pvlsbg8br53a200l8kne.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.414263590001-ua95va07bnl3pvlsbg8br53a200l8kne</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBygvqvMXGyb44iNajupfo-ZLL6ijA2VVo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>414263590001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ente.chez-french</string>
+	<key>PROJECT_ID</key>
+	<string>chez-209720</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:414263590001:ios:04b60fb5aac792f8</string>
+	<key>DATABASE_URL</key>
+	<string>https://chez-209720.firebaseio.com</string>
+</dict>
+</plist>
